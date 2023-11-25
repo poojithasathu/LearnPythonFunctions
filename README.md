@@ -27,7 +27,7 @@ Python 3.11.4, Pandas library
    - Run the test script: `python test_subset_data.py`
 
 ## Deployment
-This project can be used by importing the necessary functions or scripts into your Python environment for data analysis tasks.
+This project can be used by installing the necessary libraries (pandas) and importing the scripts into your Python environment and running the script.
 
 ## Author
 Poojitha Sathu
@@ -36,6 +36,6 @@ Poojitha Sathu
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/poojithasathu/LearnPythonFunctions/blob/main/LICENSE.md) file for details.
 
 ## Acknowledgements
-- Professor Omar Altrad
+- Professor Omar Altrad, Durham College
 - Pandas documentation
 
