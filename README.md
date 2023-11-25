@@ -33,7 +33,7 @@ This project can be used by importing the necessary functions or scripts into yo
 Poojitha Sathu
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/poojithasathu/LearnPythonFunctions/blob/main/LICENSE.md) file for details.
 
 ## Acknowledgements
 - Professor Omar Altrad
